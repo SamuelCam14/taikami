@@ -2,14 +2,13 @@
 /* @define-color background #1A1612; */
 @define-color foreground #d4d4d4;
 /* @define-color background rgba(28,14,0,0.15); */
-@define-color background rgba(28,28,28,0.85);
+@define-color background rgba(28,28,28,0.15);
 @define-color bg-2 rgba(28,28,28,0.0);
 
 
 /*********** Custom Styling ****************/
 
 * {
-  background-color: @background;
   color: @foreground;
   font-family: JetBrainsMono Nerd Font Propo;
   font-size: 12px;
@@ -19,7 +18,7 @@
 #waybar {
     padding-top: 0px;
     padding-bottom: 0px;
-    background-color: @bg-2;
+    box-shadow: inset 0px 20px 5px 1px rgba(28,28,28, 0.25);
 }
 
 #workspaces button.active {
