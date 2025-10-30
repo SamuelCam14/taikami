@@ -19,7 +19,7 @@ This theme provides a consistent look and feel across the following components:
 - **Screen Locker**: Hyprlock
 - **On-Screen Display**: SwayOSD
 - **System Monitor**: Btop
-- **Text Editor**: Neovim (via `ash` colorscheme)
+- **Text Editor**: Neovim & Zed
 
 ## Installation
 
