@@ -3,6 +3,9 @@
 This is Taikami, a monochromatic and professional modern theme designed for Hyprland.
 
 ![Taikami Omarchy Theme Screenshot](theme.png)
+![Taikami Omarchy Apps Screenshot](./screenshots/firefox.png)
+![Taikami Omarchy Wallpaper](./screenshots/wallpaper.png)
+
 
 ## Components
 
@@ -20,7 +23,7 @@ This theme provides a consistent look and feel across the following components:
 
 ## Installation
 
-You can install this theme by copying the GitHub URL and selecting `Install > Style > Theme` via the Omarchy menu (`Super + Alt + Space`). 
+You can install this theme by copying the GitHub URL and selecting `Install > Style > Theme` via the Omarchy menu (`Super + Alt + Space`).
 
 To remove it, use `Remove > Style > Theme` from the same menu and select it from the list.
 
