@@ -1,5 +1,3 @@
-# Taikami Theme
-
 This is Taikami, a monochromatic and professional modern theme designed for Hyprland.
 
 ![Taikami Omarchy Theme Screenshot](theme.png)
