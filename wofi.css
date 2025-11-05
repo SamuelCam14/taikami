@@ -1,11 +1,11 @@
-@define-color bg #282828;
-@define-color fg #d4d4d4;
-@define-color bg_secondary #3c3c3c;
-@define-color fg_dim #767676;
+@define-color bg #2b2b2b;
+@define-color fg #e6e1dc;
+@define-color bg_secondary #404040;
+@define-color fg_dim #8d8d8d;
 @define-color accent #ffffff;
-@define-color muted #505050;
-@define-color selection #505050;
-@define-color border #3c3c3c;
+@define-color muted #5a5a5a;
+@define-color selection #404040;
+@define-color border #6a6a6a;
 
 
 window {
