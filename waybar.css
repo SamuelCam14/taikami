@@ -18,7 +18,7 @@
 #waybar {
     padding-top: 0px;
     padding-bottom: 0px;
-    box-shadow: inset 0px 20px 5px 1px rgba(43,43,43, 0.25);
+    box-shadow: inset 0px 12px 8px 1px rgba(43,43,43, 0.10);
 }
 
 #workspaces button.active {
