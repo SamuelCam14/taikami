@@ -1,38 +1,29 @@
-# Colors (Taikami)
+[window]
+opacity = 0.9
+
+[colors]
+transparent_background_colors = true
 
 [colors.primary]
-background = "#242424"
-foreground = "#fdfbf9"
-dim_foreground = "#8c9379"
-
-[colors.cursor]
-text = "#242424"
-cursor = "#fdfbf9"
-
-[colors.vi_mode_cursor]
-text = "#242424"
-cursor = "#fdfbf9"
-
-[colors.selection]
-text = "CellForeground"
-background = "#8c9379"
+background = "#1d1d1d"
+foreground = "#DCDFE4"
 
 [colors.normal]
-black = "#1f2022"
-red = "#cf8058"
-green = "#a3bf78"
-yellow = "#b1b493"
-blue = "#d1a084"
-magenta = "#d2ab93"
-cyan = "#bdc6ae"
-white = "#E6CBB4"
+black = "#1d1d1d"
+red = "#F28A8A"
+green = "#92C88B"
+yellow = "#FFB58A"
+blue = "#8AB8FF"
+magenta = "#FF9BE2"
+cyan = "#C89BFF"
+white = "#A3A3B3"
 
 [colors.bright]
-black = "#8c9379"
-red = "#e7b59c"
-green = "#cedeb4"
-yellow = "#d9dac8"
-blue = "#ecd3c5"
-magenta = "#eeddd3"
-cyan = "#e9ece3"
-white = "#fdfbf9"
+black = "#212126"
+red = "#F79999"
+green = "#A0D0A0"
+yellow = "#FFC4A2"
+blue = "#ADC8FF"
+magenta = "#FFB0F0"
+cyan = "#D0AAFF"
+white = "#E9ECF2"

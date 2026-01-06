@@ -1,92 +1,19 @@
-/* @define-color foreground #996600; */
-/* @define-color background #1A1612; */
-@define-color foreground #e6e1dc;
-/* @define-color background rgba(28,14,0,0.15); */
-@define-color background rgba(43,43,43,0.0);
-@define-color bg-2 rgba(43,43,43,0.0);
-
-
-/*********** Custom Styling ****************/
-
-* {
-  color: @foreground;
-  font-family: JetBrainsMono Nerd Font Propo;
-  font-size: 12px;
-  font-weight: bold;
-}
-
-#waybar {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    box-shadow: inset 0px 12px 8px 1px rgba(43,43,43, 0.10);
-}
-
-#workspaces button.active {
-    color: #ff3f3f;
-    background-color: rgba(-1,0,0,0.0);
-}
-
-#workspaces button.active label {
-    color: #6d9cbe; /* More specific selector for text */
-    font-weight: bold;
-}
-
-#workspaces button.urgent {
-    color: #C93F16;
-    background-color: rgba(-1,0,0,0.0);
-}
-
-
-
-
-
-
-/*********** Omarchy Styles (overrides) ****************/
-
-* {
-  /* background-color: @background; */
-  /* color: @foreground; */
-
-  /* border: none; */
-  /* border-radius: 10; */
-  /* min-height: 0; */
-  /* font-family: CaskaydiaMono Nerd Font Propo; */
-  /* font-family: JetBrains Nerd Font Propo; */
-  /* font-size: 12px; */
-}
-
-.modules-left {
-  /* margin-left: 8px; */
-}
-
-.modules-right {
-  /* margin-right: 8px; */
-}
-
-#workspaces button {
-  /* all: initial; */
-  /* padding: 0 6px; */
-  /* margin: 0 1.5px; */
-  /* min-width: 9px; */
-}
-
-#tray,
-#cpu,
-#battery,
-#network,
-#bluetooth,
-#pulseaudio,
-#clock,
-#custom-power-menu {
- /* min-width: 12px; */
- /* margin: 0 7.5px; */
-}
-
-#custom-expand-icon {
-  /* margin-right: 12px; */
-}
-
-tooltip {
-  /* padding: 2px; */
-}
-
+@define-color background rgba(29, 29, 29, 0.9);
+@define-color transparentbg rgba(0, 0, 0, 0);
+@define-color foreground #DCDFE4;
+@define-color black #1d1d1d;
+@define-color red #F28A8A;
+@define-color green #92C88B;
+@define-color yellow #FFB58A;
+@define-color blue #8AB8FF;
+@define-color magenta #FF9BE2;
+@define-color cyan #C89BFF;
+@define-color white #A3A3B3;
+@define-color bright_black #212126;
+@define-color bright_red #F79999;
+@define-color bright_green #A0D0A0;
+@define-color bright_yellow #FFC4A2;
+@define-color bright_blue #ADC8FF;
+@define-color bright_magenta #FFB0F0;
+@define-color bright_cyan #D0AAFF;
+@define-color bright_white #E9ECF2;

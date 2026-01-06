@@ -1,11 +1,7 @@
-@define-color selected-text #fdfbf9;
-@define-color text #a3a2a2;
-@define-color base #242424;
-@define-color border #3B3B3B;
-@define-color foreground #fdfbf9;
-@define-color background #242424;
-
-.box-wrapper, .search-container{
-  border-radius: 20px;
-  border: 1px solid @border;
-}
+@define-color selected-text #FFB58A;
+@define-color selected-vibrant #FFC4A2;
+@define-color text #DCDFE4;
+@define-color base #1d1d1d;
+@define-color border #212126;
+@define-color foreground #DCDFE4;
+@define-color background #1d1d1d;
